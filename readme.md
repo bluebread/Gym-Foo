@@ -4,6 +4,7 @@ This is based on CartPole-v0 in OpenAI Gym. I am lazy to give it a better name.
 
 Installation:
 
+    $ pip install gym
     $ cd /gym-foo/..
     $ pip install -e gym-foo
 
