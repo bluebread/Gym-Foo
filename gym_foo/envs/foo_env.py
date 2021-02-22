@@ -28,6 +28,7 @@ class FooEnv(gym.Env):
         1       Cart Velocity             -Inf                    Inf
         2       Pole Angle                -0.418 rad (-24 deg)    0.418 rad (24 deg)
         3       Pole Angular Velocity     -Inf                    Inf
+        4       Pole Angular Acceleration -Inf                    Inf
     Actions:
         Type: Discrete(2)
         Num   Action
